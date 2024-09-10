@@ -1,4 +1,8 @@
 #Sumin's git
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?tab=readme-ov-file&url=https%3A%2F%2Fgithub.com%2Fsumin1012%2Fsuminprofile&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23F8E854&title=SUMIN%27S+GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
