@@ -1,3 +1,2 @@
-
-
-<a href="https://mail.google.com/mail" target="_blank"><img src="https://img.shields.io/badge/blue?style=square&logo=&logoColor=white"/></a>
+#Sumin's git
+<a href="https://mail.google.com/mail" target="_blank"><img src="C:\Users\ksm25\Downloads\gmail.svg"/></a>
