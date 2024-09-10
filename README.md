@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FAF4C07D&height=300&section=header&text=SUMIN'S%20GITHUB&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=wave&color=FFFF66&height=300&section=header&text=SUMIN'S%20GITHUB&fontSize=70)
 
 
 
